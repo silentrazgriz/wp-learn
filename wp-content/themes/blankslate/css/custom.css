@@ -1,0 +1,12 @@
+.navbar {
+    height: 80px;
+    padding: 10px;
+}
+
+.form-inline {
+    padding-top: 15px;
+}
+
+.form-inline label {
+    margin: auto 10px;
+}
