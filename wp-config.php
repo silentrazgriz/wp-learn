@@ -23,7 +23,7 @@
 define('DB_NAME', 'wp-learn');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'dev');
 
 /** MySQL database password */
 define('DB_PASSWORD', '');
